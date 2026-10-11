@@ -104,3 +104,4 @@
 /Users/jahid/Desktop/Developer/HelloCi/tests/HelloCi.Tests/obj/Debug/net10.0/HelloCi.Tests.pdb
 /Users/jahid/Desktop/Developer/HelloCi/tests/HelloCi.Tests/obj/Debug/net10.0/HelloCi.Tests.genruntimeconfig.cache
 /Users/jahid/Desktop/Developer/HelloCi/tests/HelloCi.Tests/obj/Debug/net10.0/ref/HelloCi.Tests.dll
+/Users/jahid/Desktop/Developer/HelloCi/tests/HelloCi.Tests/obj/Debug/net10.0/HelloCi.Tests.sourcelink.json
