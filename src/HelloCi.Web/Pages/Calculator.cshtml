@@ -1,0 +1,28 @@
+@page
+@model HelloCi.Web.Pages.CalculatorModel
+@{
+    ViewData["Title"] = "Calculator";
+}
+
+<h1>Calculator</h1>
+
+<form method="post" class="d-flex gap-2 align-items-center mb-3">
+    <input asp-for="A" class="form-control" style="width:120px" />
+    <select asp-for="Op" class="form-select" style="width:150px">
+        <option value="add">+ Add</option>
+        <option value="subtract">− Subtract</option>
+        <option value="multiply">× Multiply</option>
+        <option value="divide">÷ Divide</option>
+    </select>
+    <input asp-for="B" class="form-control" style="width:120px" />
+    <button type="submit" class="btn btn-primary">Calculate</button>
+</form>
+
+@if (Model.Result is not null)
+{
+    <div class="alert alert-success">Result: <strong>@Model.Result</strong></div>
+}
+@if (Model.Error is not null)
+{
+    <div class="alert alert-danger">@Model.Error</div>
+}
