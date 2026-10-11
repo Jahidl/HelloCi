@@ -95,3 +95,4 @@
 /Users/jahid/Desktop/Developer/HelloCi/src/HelloCi.Web/obj/Debug/net10.0/HelloCi.Web.pdb
 /Users/jahid/Desktop/Developer/HelloCi/src/HelloCi.Web/obj/Debug/net10.0/HelloCi.Web.genruntimeconfig.cache
 /Users/jahid/Desktop/Developer/HelloCi/src/HelloCi.Web/obj/Debug/net10.0/ref/HelloCi.Web.dll
+/Users/jahid/Desktop/Developer/HelloCi/src/HelloCi.Web/obj/Debug/net10.0/HelloCi.Web.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloCi.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c24686d643e52511e20bc70759ead390f63bb45")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloCi.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloCi.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
